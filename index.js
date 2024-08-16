@@ -1,5 +1,5 @@
 /**
- * @author: github:jacktheboss220
+ * @author: github:amaanrehmani1
  * @description: This is the main file of the bot.
  * @license: GPL-3.0 license
  * @file: index.js
