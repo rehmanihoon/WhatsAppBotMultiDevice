@@ -1,5 +1,5 @@
 {
-	"name": "whatsappbot",
+	"name": "AMAAAN-bot",
 	"version": "1.0.0",
 	"description": "well...Unique and intreating project",
 	"main": "index.js",
@@ -15,7 +15,7 @@
 		"start": "node index.js"
 	},
 	"keywords": [],
-	"author": "mahesh",
+	"author": "amaan",
 	"license": "MIT",
 	"dependencies": {
 		"@adiwajshing/baileys": "github:jacktheboss220/Baileys-New",
